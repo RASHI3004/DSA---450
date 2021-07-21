@@ -19,6 +19,10 @@ vector<int> rev(vector<int> arr, int n)
   return arr;
 }
 
+//Method 2 - recursion
+//start+=1
+//end-=1
+
 int main()
 {
 #ifndef ONLINE_JUDGE
