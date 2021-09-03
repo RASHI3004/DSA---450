@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//O(n)
 int count_meetings(int start[], int end[], int n)
 {
   int c = 1, j = 0;
